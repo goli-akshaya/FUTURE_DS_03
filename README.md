@@ -6,6 +6,12 @@ This project analyzes customer conversion performance using the **Bank Marketing
 
 ---
 
+# 📸 Dashboard Preview
+
+![Marketing Funnel Dashboard](./future%20interns%20task3%20img.png)
+
+---
+
 # 🎯 Project Objective
 
 This dashboard helps answer key business questions such as:
@@ -49,13 +55,13 @@ The dataset contains customer demographic information, campaign details, previou
 
 ### 📊 KPI Cards
 
-- Total Customers
-- Converted Customers
-- Conversion Rate
-- Average Calls
-- Average Balance
-- Average Age
-- Success Rate
+- 👥 Total Customers
+- ✅ Converted Customers
+- 📈 Conversion Rate
+- ☎️ Average Calls
+- 💰 Average Balance
+- 👤 Average Age
+- 🎯 Success Rate
 
 ### 📉 Visualizations
 
@@ -88,17 +94,15 @@ The dataset contains customer demographic information, campaign details, previou
 
 ---
 
-# 📸 Dashboard Preview
-
-![Marketing Funnel Dashboard](future interns task3 img.png)
-
----
-
 # 📁 Repository Contents
 
-- FUTURE INTERNS TASK3.pbix
-- future interns task3 img.png
-- README.md
+```text
+📂 FUTURE_DS_03
+│
+├── FUTURE INTERNS TASK3.pbix
+├── future interns task3 img.png
+└── README.md
+```
 
 ---
 
